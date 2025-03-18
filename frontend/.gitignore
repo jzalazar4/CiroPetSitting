@@ -13,6 +13,9 @@
 
 # carpeta escritorio
 Escritorio/
+/*
+!frontend/
+!backend/
 
 # misc
 .DS_Store
