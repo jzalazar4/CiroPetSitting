@@ -7,6 +7,7 @@ import ContactPage from './views/Contact/ContactPage';
 //import Servicio from './pages/Servicio/Servicios';
 //import Products from './pages/Products/Products';
 //import Contacto from './pages/Contacto';
+
 import ScrollToTop from  './components/ScrollToTop'
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -25,6 +26,7 @@ function App() {
           <Switch>
             <Route path='/' exact component={Home} />
             <Route path='/contact' exact component={ContactPage} />
+            <Route path='/reservation' exact component={ReservationPage} />
          {/**    <Route path='/' exact component={Home} />
            <Route path='/services' component={Services} />
             <Route path='/products' component={Products} />
