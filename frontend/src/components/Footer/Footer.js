@@ -75,7 +75,7 @@ function Footer() {
         </FooterColumns>
         <SocialMediaWrap>
           <WebsiteRights>
-            MiMarca © {new Date().getFullYear()} Todos los derechos reservados.
+            Ciro © {new Date().getFullYear()} Todos los derechos reservados.
           </WebsiteRights>
         </SocialMediaWrap>
       </FooterContainer>
